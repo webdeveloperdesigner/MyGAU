@@ -1,55 +1,77 @@
-# ⭐ MyGAU – My GitHub Auto Update
+# 🔄 MyGAU – GitHub Auto Updater
 
-Welcome to **MyGAU (My GitHub Auto Update)** – a smart solution to keep your GitHub contributions green, even without pushing new code every day.
-
----
-
-## 🚀 About This Project
-
-MyGAU is a lightweight HTML/CSS/JavaScript-based project designed to **automatically update your GitHub commit history and contribution graph**. It simulates activity through a hidden mechanism, updating both **public and private contribution history**—without pushing actual code changes daily.
-
-📦 This project is perfect for:
-- Keeping your GitHub contributions consistent.
-- Maintaining your daily contribution streak.
-- Showcasing active development even on busy days.
+MyGAU is a browser-based tool that enables users to update GitHub repository files directly from a user-friendly interface, without needing to clone or manually push changes. It's designed for personal and public use with token-based authentication.
 
 ---
 
-## 📁 Technologies Used
+## 📦 Current Version
 
-- HTML
-- CSS
-- JavaScript
+**GAU Version:** `GAU V1.0.0`
 
 ---
 
-## ⚠️ Important Notice
+## 📊 Version Status Table
 
-> This project is made public **only for demonstration and showcasing purposes**.
+| #   | Version        | GitHub Code | Live Website                 | Key Changes |
+|-----|----------------|-------------|------------------------------|-------------|
+| 1   | GAU_B1.1       | 🔒 Not Public | ⏳ Coming June 2025          | Web-based update engine, error reporting, security improvements |
+| 2   | GAU_B1.0       | 🔒 Not Public | ✅ [mygau.netlify.app](https://mygau.netlify.app) | Hybrid public + personal mode, UI overhaul, release notes page |
+| 3   | v1.0.0 (Public)| 🔒 Not Public | ✅ [mygau.netlify.app](https://mygau.netlify.app) | Public user interface, multi-repo support |
+| 4   | v1.0.0 (Personal)| 🔒 Not Public | ❌ Not Hosted                | Single repo support, manual token use, no login |
+| 5   | v0.0.5         | 🔒 Not Public | ✅ gauv.netlify.app          | First Netlify deployment (test mode) |
+| 6   | v0.0.4         | 🔒 Not Public | ❌ Local/Private             | Git branch handling, commit message customization |
+| 7   | v0.0.3         | 🔒 Not Public | ❌ Local/Private             | Basic UI, form validation, update logs |
+| 8   | v0.0.2         | 🔒 Not Public | ❌ Local/Private             | Token-based update engine prototype |
 
-- **Do NOT fork**, clone, reuse, or redistribute this code.
-- **No commercial or personal reuse is allowed**.
-- All rights reserved. Contact the author for permission before using.
+> **Note**: GitHub source code for MyGAU is private. Only discussion, feedback, and issue tracking are open via the [GitHub Discussions tab](https://github.com/your-username/your-private-repo/discussions) (replace with your actual repo link).
 
 ---
 
+## 🚀 Key Features
 
+- ⚡ Update GitHub files from a browser using a personal token.
+- 🔐 Secure, token-based system (no token storage).
+- 🌐 Public & Private repo support (with proper permissions).
+- ✅ Live success/error reporting.
+- 🧪 Tested on `.js`, `.json`, `.md`, and `.txt` files.
 
-## 💬 Community & Feedback
+---
 
-🗣️ Have questions, suggestions, or ideas?  
+## 📅 Upcoming (GAU_B1.1)
+
+- Auto-validation of repo path & token before updates.
+- UI enhancements and theme toggle.
+- Better status history and update logs.
+- Update scheduler (beta).
+
+---
+
+## 📝 License
+
+Currently **not open-source**. Only issues, feedback, and updates are allowed through GitHub Discussions.
+
+---
+
+## 📬 Contact & Feedback
+
+Have feedback or a feature request?  
+Open a thread via [GitHub Discussions](https://github.com/webdeveloperdesigner/MyGAU/discussions) or email: **vivekcsed22@gmail.com**
+
+---
+
+## 🙌 Community & Feedback
+
+🗣️ **Have questions, suggestions, or ideas?**  
 Start a thread in [**Discussions**](../../discussions)!
 
-🐞 Found a bug or issue related to usage?  
+🐞 **Found a bug or issue related to usage?**  
 Report it under [**Issues**](../../issues).
 
-📩 For permissions or inquiries, contact the author via GitHub.
+📩 **For permissions or inquiries**, contact the author via [GitHub](../../).
 
-🙏 If you find this project interesting or helpful, please consider giving it a ⭐ star.
+🙏 **If you find this project interesting or helpful, please consider giving it a** ⭐ **star.**
 
-> ⚠️ Please **do not request access, forks, or reuse**. This project is for demo/showcase purposes only.
 
 ---
 
-
-© 2025 Vivek. All rights reserved.
+> _MyGAU – Made with ❤️ for personal productivity and open collaboration tools._
