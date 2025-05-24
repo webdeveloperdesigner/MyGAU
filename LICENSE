@@ -1,11 +1,15 @@
 All Rights Reserved.
 
-This repository and its contents are protected by copyright.
+This project, "MyGAU – My GitHub Auto Update", and all files within this repository are protected by copyright.
 
-You may not copy, modify, distribute, or use any part of this repository without explicit written permission from the author.
+You may **not** copy, modify, distribute, sublicense, or reuse any part of this repository without the explicit written permission of the author.
 
-This repository is made public only for demonstration and showcasing purposes. Forking, cloning, downloading, or reusing the code in any form is strictly prohibited.
+This repository is made public solely for **showcase and demonstration purposes**. Forking, cloning, or redistributing this code is **strictly prohibited**.
 
-The purpose of this project, "MyGAU – My GitHub Auto Update", is to help users view and update their GitHub contribution history, including activity across public and private repositories, without needing to push code every day.
+This project is intended to update GitHub contribution graphs without pushing daily code, using a minimal public repository structure.
 
-© 2025 Vivek
+---
+
+This is not legal advice. If you have questions about how you may use this material, you should consult a qualified attorney.
+
+© 2025 Vivek. All rights reserved.
