@@ -6,7 +6,7 @@ MyGAU is a browser-based tool that enables users to update GitHub repository fil
 
 ## 📦 Current Version
 
-**GAU Version:** `GAU V1.0.0`
+**GAU Version:** `GAU_B1.0 (V1.0.0)`
 
 ---
 
