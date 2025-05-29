@@ -14,7 +14,7 @@ MyGAU is a browser-based tool that enables users to update GitHub repository fil
 
 | #   | Version        | GitHub Code | Live Website                 | Key Changes |
 |-----|----------------|-------------|------------------------------|-------------|
-| 1   | GAU_B1.1       | 🔒 Not Public | ⏳ Coming June 2025          | Web-based update engine, error reporting, security improvements |
+| 1   | GAU_B1.1       | 🔒 Not Public | ⏳ Coming June 2025 Expected        | Web-based update engine, error reporting, security improvements |
 | 2   | GAU_B1.0       | 🔒 Not Public | ✅ [mygau.netlify.app](https://mygau.netlify.app) | Hybrid public + personal mode, UI overhaul, release notes page |
 | 3   | v1.0.0 (Public)| 🔒 Not Public | ✅ [mygau.netlify.app](https://mygau.netlify.app) | Public user interface, multi-repo support |
 | 4   | v1.0.0 (Personal)| 🔒 Not Public | ❌ Not Hosted                | Single repo support, manual token use, no login |
