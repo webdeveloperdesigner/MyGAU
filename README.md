@@ -6,22 +6,63 @@ MyGAU is a browser-based tool that enables users to update GitHub repository fil
 
 ## 📦 Current Version
 
-**GAU Version:** `GAU_B1.0 (V1.0.0)`
+**GAU Version:** `GAU_B1.1 (V1.1.0 Beta)`
 
 ---
 
 ## 📊 Version Status Table
 
-| #   | Version        | GitHub Code | Live Website                 | Key Changes |
-|-----|----------------|-------------|------------------------------|-------------|
-| 1   | GAU_B1.1       | 🔒 Not Public | ⏳ Coming June 2026 Expected        | Web-based update engine, error reporting, security improvements |
-| 2   | GAU_B1.0       | 🔒 Not Public | ✅ [mygau.netlify.app](https://mygau.netlify.app) | Hybrid public + personal mode, UI overhaul, release notes page |
-| 3   | v1.0.0 (Public)| 🔒 Not Public | ✅ [mygau.netlify.app](https://mygau.netlify.app) | Public user interface, multi-repo support |
-| 4   | v1.0.0 (Personal)| 🔒 Not Public | ❌ Not Hosted                | Single repo support, manual token use, no login |
-| 5   | v0.0.5         | 🔒 Not Public | ✅ gauv.netlify.app          | First Netlify deployment (test mode) |
-| 6   | v0.0.4         | 🔒 Not Public | ❌ Local/Private             | Git branch handling, commit message customization |
-| 7   | v0.0.3         | 🔒 Not Public | ❌ Local/Private             | Basic UI, form validation, update logs |
-| 8   | v0.0.2         | 🔒 Not Public | ❌ Local/Private             | Token-based update engine prototype |
+| # | Version           | Tag            | GitHub Code   | Live Website                               | Key Changes                                                     |
+| - | ----------------- | -------------- | ------------- | ------------------------------------------ | --------------------------------------------------------------- |
+| 1 | GAU_B1.1          | 🧪 Beta        | Public | ⏳ https://beta.mygau.pages.dev (June 2026) | Web-based update engine, error reporting, security improvements |
+| 2 | GAU_B1.0          | 🧪 Beta        | 🔒 Not Public | ✅ https://mygau.netlify.app                | Hybrid public + personal mode, UI overhaul, release notes page  |
+| 3 | v1.0.0 (Public)   | ✅ Stable       | 🔒 Not Public | ✅ https://mygau.netlify.app                | Public user interface, multi-repo support                       |
+| 4 | v1.0.0 (Personal) | 🔧 Internal    | 🔒 Not Public | ❌ Not Hosted                               | Single repo support, manual token use, no login                 |
+| 5 | v0.0.5            | ⚠ Experimental | 🔒 Not Public | ✅ https://gauv.netlify.app                 | First Netlify deployment (test mode)                            |
+| 6 | v0.0.4            | 🔧 Internal    | 🔒 Not Public | ❌ Local/Private                            | Git branch handling, commit message customization               |
+| 7 | v0.0.3            | 🔧 Internal    | 🔒 Not Public | ❌ Local/Private                            | Basic UI, form validation, update logs                          |
+| 8 | v0.0.2            | 🔧 Internal    | 🔒 Not Public | ❌ Local/Private                            | Token-based update engine prototype                             |
+
+---
+
+## 🧪 Beta Release Status
+
+**Program:** MyGAU Beta Program
+**Current Beta:** `GAU_B1.1`
+**Access:** https://beta.mygau.pages.dev
+**Status:** ⏳ Rolling Out
+
+---
+
+## 🏷️ Version Tags Legend
+
+| Tag            | Meaning                                  |
+| -------------- | ---------------------------------------- |
+| 🧪 Beta        | Testing version (unstable, early access) |
+| ✅ Stable       | Production-ready release                 |
+| ⚠ Experimental | Early prototype/testing                  |
+| 🔧 Internal    | Private or development-only version      |
+
+---
+
+## 📌 Notes
+
+* Beta versions are under active development and may change frequently
+* Stable versions are recommended for production use
+* Internal versions are not publicly accessible
+* Experimental versions are early-stage builds used for testing core features
+
+---
+
+## 🚀 Upcoming
+
+* **GAU_B1.2** → Advanced backend integration + authentication
+* **GAU_R1.0** → First stable production release
+
+---
+
+**Maintained by:** MyGAU System
+
 
 > **Note**: GitHub source code for MyGAU is private. Only discussion, feedback, and issue tracking are open via the [GitHub Discussions tab](https://github.com/your-username/your-private-repo/discussions) (replace with your actual repo link).
 
